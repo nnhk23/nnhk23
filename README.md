@@ -36,13 +36,14 @@ I am a newly graduate from Flatiron School, who is seeking for new oppotunities 
 ## Skills :computer:
 
 <img align='left' height='40px' width='40px' alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align='left' height='40px' width='40px' alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align='left' height='40px' width='40px' height='40px' width='40px' alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align='left' height='40px' width='40px' alt="ruby-on-rails" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" />
 <img align='left' height='40px' width='40px' alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align='left' height='40px' width='40px' alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align='left' height='40px' width='40px' alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align='left' height='40px' width='40px' alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align='left' height='40px' width='40px' alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
+<img align='left' height='40px' width='40px' alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align='left' height='40px' width='40px' alt="heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
 
 
 <!--
