@@ -16,7 +16,7 @@ I am a newly graduate from Flatiron School, who is seeking for new oppotunities 
 :cat::dog: A Foster App that enables user to book appointments with available pets on shelters before adopting them.
 
 
-**Makegotchi** [Frontend](https://github.com/nnhk23/makegotchi-frontend) | [Demo](https://youtu.be/gPxU31_ZEXc)
+**Makegotchi** [Frontend](https://github.com/nnhk23/makegotchi-frontend) | [Deployed Link](https://makegotchi.herokuapp.com/)
 
 :cherry_blossom: A Gaming App, inspired by [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) - A Japanese handheld digital pet game, that allows user to purchase and take care of pets. There are 2 minigames: Tic-tac-toe and JanKen (rock-paper-scissors) that user can play to earn money.
 
@@ -31,7 +31,6 @@ I am a newly graduate from Flatiron School, who is seeking for new oppotunities 
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />][dev]
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-
 
 ## Skills :computer:
 
